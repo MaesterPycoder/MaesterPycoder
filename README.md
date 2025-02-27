@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @MaesterPycoder
 - 👀 I’m interested in programming, coding, developing cloud and web based applications.
-- This is second account of github.com/saishanmukkha
 <!---
 MaesterPycoder/MaesterPycoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
